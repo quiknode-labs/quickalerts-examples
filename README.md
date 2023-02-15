@@ -41,7 +41,7 @@ To use the example alerts, simply copy the expression details from the example a
 - [$BLUR Airdrop Claimed meets a certain threshold of tokens](examples/blur-whale-claims.md)
 
 ### Contribution Guide
-We welcome contributions from the community to improve and expand QuickAlerts. If you'd like to contribute, please follow these guidelines:
+We welcome contributions from the community to share their examples! If you'd like to contribute, please follow these guidelines:
 
 - Fork the QuickAlerts repository.
 - Create a new branch for your changes.
