@@ -4,7 +4,7 @@
 Get a QuickAlert anytime a $BLUR airdrop is claimed and reaches a specific threshold of tokens.
 
 ### Blockchain & Network
-All Blockchains and networks
+Ethereum Mainnet
 
 ### Expression Values
 - `0x5283d291dbcf85356a21ba090e6db59121208b44` $BLUR ERC20 contract
