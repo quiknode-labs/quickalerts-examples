@@ -1,7 +1,7 @@
-## QuickAlerts Examples
+## QuickAlerts Community Examples
 
 ### Table of Contents
-- [QuickAlerts Examples](#quickalerts-examples)
+- [QuickAlerts Community Examples](#quickalerts-community-examples)
   - [Table of Contents](#table-of-contents)
   - [What is QuickAlerts by QuickNode?](#what-is-quickalerts-by-quicknode)
   - [How to Use QuickAlerts](#how-to-use-quickalerts)
