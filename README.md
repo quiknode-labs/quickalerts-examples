@@ -18,9 +18,13 @@ Quickly set up alerts for events that occur on over 6 different blockchains and 
 QuickAlerts is easy to use, and it doesn't require any coding knowledge. You can set up alerts using a simple web interface, and you can customize the alerts to fit your specific needs. Whether you're a developer, a trader, or just a blockchain enthusiast, QuickAlerts can help you stay informed and make more informed decisions.
 
 ### How to Use QuickAlerts
+[![How to get notified of blockchain events in real-time with QuickAlerts](https://user-images.githubusercontent.com/70228897/219116132-a1bc5201-d873-4f0c-a219-f180f117255a.png)](https://www.youtube.com/watch?v=Y3UZDxX-ZD8)
+_Follow our YouTube step-by-step tutorial continue reading for easy to follow steps._
+
 To use QuickAlerts, you'll need to create an account on the [QuickNode](https://www.quicknode.com/?utm_source=github&utm_campaign=quickalerts-examples) website. Once you have an account, you can create alerts using a predefined expression template or create one on your own.
 
-To create an alert, follow these steps:
+
+**To create an alert, follow these steps:**
 - Log in to your [QuickNode](https://www.quicknode.com/?utm_source=github&utm_campaign=quickalerts-examples) account and navigate to the QuickAlerts dashboard.
 - Click the "Create QuickAlert" button.
 - Name your alert and select the chain and network you'd like your alert on.
