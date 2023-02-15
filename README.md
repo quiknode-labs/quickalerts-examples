@@ -1,16 +1,16 @@
-## QuickAlerts by QuickNode
+## QuickAlerts Examples
 
 ### Table of Contents
-- [QuickAlerts by QuickNode](#quickalerts-by-quicknode)
+- [QuickAlerts Examples](#quickalerts-examples)
   - [Table of Contents](#table-of-contents)
-  - [What is QuickAlerts?](#what-is-quickalerts)
+  - [What is QuickAlerts by QuickNode?](#what-is-quickalerts-by-quicknode)
   - [How to Use QuickAlerts](#how-to-use-quickalerts)
   - [Community Examples](#community-examples)
     - [Examples](#examples)
   - [Contribution Guide](#contribution-guide)
   - [Contributors](#contributors)
 
-### What is QuickAlerts?
+### What is QuickAlerts by QuickNode?
 [QuickAlerts](https://www.quicknode.com/quickalerts?utm_source=github&utm_campaign=quickalerts-examples) is an easy-to-use tool for real-time monitoring of blockchain events. QuickAlerts enables you to leverage real-time blockchain data and advanced alerting to power your apps, make DeFi trading decisions based on the specific data that matters to you, add real-time blockchain event driven logic into your workflows, and more. Monitor over 6 blockchains and 8 networks in real time!
 
 Quickly set up alerts for events that occur on over 6 different blockchains and 8 different networks. You can monitor smart contracts for specific events, such as a contract being deployed, a transaction being sent to a specific address, and much more. When an event occurs, QuickAlerts will notify you in real-time via webhook.
