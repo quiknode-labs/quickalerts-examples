@@ -19,7 +19,7 @@ QuickAlerts is easy to use, and it doesn't require any coding knowledge. You can
 
 ### How to Use QuickAlerts
 [![How to get notified of blockchain events in real-time with QuickAlerts](https://user-images.githubusercontent.com/70228897/219116132-a1bc5201-d873-4f0c-a219-f180f117255a.png)](https://www.youtube.com/watch?v=Y3UZDxX-ZD8)
-_Follow our YouTube step-by-step tutorial continue reading for easy to follow steps._
+_Follow our step-by-step tutorial on [YouTube](https://www.youtube.com/watch?v=Y3UZDxX-ZD8)_
 
 To use QuickAlerts, you'll need to create an account on the [QuickNode](https://www.quicknode.com/?utm_source=github&utm_campaign=quickalerts-examples) website. Once you have an account, you can create alerts using a predefined expression template or create one on your own.
 
