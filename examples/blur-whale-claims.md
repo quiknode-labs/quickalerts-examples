@@ -8,9 +8,9 @@ All Blockchains and networks
 
 ### Expression Values
 - `0x5283d291dbcf85356a21ba090e6db59121208b44` $BLUR ERC20 contract
-- `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` TBD
-- `0xF2d15C0A89428C9251d71A0E29b39FF1e86bce25` TBD
-- `50000` is the minimum amount of tokens claimed in order to fire the alert. This is value is adjustable.
+- `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` Topic hash of ERC-20 Transfer event `Transfer (index_topic_1 address from, index_topic_2 address to, uint256 value)`
+- `0xF2d15C0A89428C9251d71A0E29b39FF1e86bce25` BlurAirdrop Contract (`from`)
+- `50000` is the minimum amount of tokens claimed in order to fire the alert (`value`). This is value is adjustable.
 
 ### Expression
 ```
