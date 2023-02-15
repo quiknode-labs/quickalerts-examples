@@ -7,7 +7,7 @@ Description of what the QuickAlert does
 All Blockchains and networks supporting this expression
 
 ### Expression
-`0x` Explanation of an address or topic if defined
+- `0x` Explanation of an address or topic if defined
 
 ```
 Expression goes here
