@@ -8,9 +8,9 @@ All Blockchains and networks
 
 ### Expression Values
 - `0x0000000000000000000000000000000000000000000000000000000000000000` is the mint address
-- `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` TBD
-- `0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62` TBD
-- `0x4a39dc06d4c0dbc64b70af90fd698a233a518aa5d07e595d983b8c0526c8f7fb` TBD
+- `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` Topic hash of `Transfer` event
+- `0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62` Topic hash of `TransferSingle` event
+- `0x4a39dc06d4c0dbc64b70af90fd698a233a518aa5d07e595d983b8c0526c8f7fb` Topic hash of `TransferBatch` event
 
 ### Expression
 ```
