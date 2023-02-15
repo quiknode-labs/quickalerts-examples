@@ -38,6 +38,7 @@ To use the example alerts, simply copy the expression details from the example a
 
 #### Examples
 - [Any ERC721 or ERC1155 NFT is Minted](examples/any-nft-is-minted.md)
+- [$BLUR Airdrop Claimed meets a certain threshold of tokens](examples/blur-whale-claims.md)
 
 ### Contribution Guide
 We welcome contributions from the community to improve and expand QuickAlerts. If you'd like to contribute, please follow these guidelines:
