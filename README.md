@@ -41,8 +41,12 @@ The examples directory contains a set of example alerts that you can use to get 
 To use the example alerts, simply copy the expression details from the example and [follow the How to Use QuickAlerts guide](#how-to-use-quickalerts). 
 
 #### Examples
-- [Any ERC721 or ERC1155 NFT is Minted](examples/any-nft-is-minted.md)
-- [$BLUR Airdrop Claimed meets a certain threshold of tokens](examples/blur-whale-claims.md)
+- ERC721 & ERC1155
+  - [Any ERC721 or ERC1155 NFT is Minted](examples/any-nft-is-minted.md)
+  - [CryptoPunk Transfered](examples/crypto-punk-transfered.md)
+  - [Bored Ape Yacht Club (BAYC) Transfered](examples/bayc-transfered.md)
+- ERC20
+  - [$BLUR Airdrop Claimed meets a certain threshold of tokens](examples/blur-whale-claims.md)
 
 ### Contribution Guide
 We welcome contributions from the community to share their examples! If you'd like to contribute, please follow these guidelines:
