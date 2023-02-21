@@ -7,7 +7,7 @@ Get a QuickAlert anytime a transfer of a Bored Ape Yacht Club (BAYC) happens.
 Ethereum Mainnet
 
 ### Expression Values
-- `0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d` CryptoPunk Contract
+- `0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d` BAYC Contract
 - `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` Transfer Log
 
 ### Expression
@@ -17,33 +17,39 @@ Ethereum Mainnet
 
 ### Expected Result
 ```
-{
-  "block_number":15110668
-  "topic":"raw-ethereum-mainnet"
-  "chain":"ethereum-mainnet"
-  "block":{
-    "baseFeePerGas":"0x53509468e"
-    "difficulty":"0x298709374aae57"
-    "extraData":"0x6e616e6f706f6f6c2e6f7267"
-    "gasLimit":"0x1c9c380"
-    "gasUsed":"0x158d77d"
-    "hash":"0x3b1e796cc7965348a2a8612515efe2ac7f33ba4e2d5c5dfbc10e78930d7946c3"
-    "logsBloom":"0x1fae60ffde029a877e992cc8b9391bb76553bc76a07f87d79bff3d6ad6b2ed3ba6aff359dc6f61efca28919f39eff5275267fdbd3ba1bc7bbb9ac936f23ef7b478026d1415fd9ee8fcce66ceb6202765d9ed0f9ede77fb4ffa62fe799aedfe9c525a7eec633e7e76ed3f11c1f9fd3b7fef2ccd1fcaf89cd25f89fa3fa2087e61d6f1494e4efb79b63fefef692fd6522495399f79aded6798abf0b9e7fbb5b5a0ebf843b92f83657f7bf4eefb4d9c35fbeb1e58d3f5f7e9a6eb37efbf95fdff7fdbaeccc6258b02df5e2bbf3fbf96536d666df7f4b76a05345609ad6272fef8e31dbff97f68f6c70d3377f0f7f33e6a1033ee2232b16d8ef6d37f6eff7fd7f4fb"
-    "miner":"0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5"
-    "mixHash":"0x26fb548d01a06d266787682c6adb2e4542db3916279b9ffd18bf0a3cfb0e8268"
-    "nonce":"0x5d8a657e4d32696d"
-    "number":"0xe6920c"
-    "parentHash":"0x15bd4b0154013f2099848bd005e2e9bf845e94adf868fe8d1ce4e6897dadaca6"
-    "receiptsRoot":"0xf15af584c9f955455fc4979f10a73e72352feb6f56ed0c730e76674b1617483b"
-    "sha3Uncles":"0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-    "size":"0x18c14"
-    "stateRoot":"0x763a26fd9958a1e613d0b6a75133ce06d6645d7998b7182e7a16b7632327b251"
-    "timestamp":"0x62c9eb1c"
-    "totalDifficulty":"0xb5b78a5286b4ec893cc"
-    "transactions": [...]
-    "transactionsRoot":"0xdca0f3ed328aeedbb055947e5c6a849d7a38be653119659ec58e1aff7e232f3c"
-    "uncles":[]
+[
+  {
+    "blockHash": "0xd54020ffe1345efa4a7f01269ebf6874059f25e70ea84c3e105dde6a1de83fc0",
+    "blockNumber": "0xfe7a79",
+    "contractAddress": "",
+    "cumulativeGasUsed": "0x109a63a",
+    "effectiveGasPrice": "0xaa98a9b7e",
+    "from": "0x4c949dd56352b9ccfa76b9db08206023fc0274d9",
+    "gasUsed": "0x1c865",
+    "logs": [
+      {
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "blockHash": "0xd54020ffe1345efa4a7f01269ebf6874059f25e70ea84c3e105dde6a1de83fc0",
+        "blockNumber": "0xfe7a79",
+        "data": "0x",
+        "logIndex": "0x1d6",
+        "removed": false,
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000004c949dd56352b9ccfa76b9db08206023fc0274d9",
+          "0x000000000000000000000000c67db0df922238979da0fd00d46016e8ae14cecb",
+          "0x0000000000000000000000000000000000000000000000000000000000001d5c"
+        ],
+        "transactionHash": "0x455763f9a7e6be604d4fdf890ac1416b7029bf47fe3948d73308037b24905818",
+        "transactionIndex": "0x9d"
+      }
+    ],
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010040000000000000000000000000200000000000000800000000000008000000000000000000020000000000100000000020000008420000000000000000000800000400000000000000000010000100000800000000000000000000000000000004000000000000000000000000000000020000000000000001000000000000000000000000000000800000000000000200000002000000000000000000001000000000000000000800000000400020200810000000000000000000000000000040000000000000000000000000000000",
+    "status": "0x1",
+    "to": "0x869a5d85a71830a8c34934101c20671c272c3807",
+    "transactionHash": "0x455763f9a7e6be604d4fdf890ac1416b7029bf47fe3948d73308037b24905818",
+    "transactionIndex": "0x9d",
+    "type": "0x2"
   }
-  "receipts": [...]
-}
+]
 ```
