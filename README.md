@@ -47,6 +47,8 @@ To use the example alerts, simply copy the expression details from the example a
   - [Bored Ape Yacht Club (BAYC) Transfered](examples/bayc-transfered.md)
 - ERC20
   - [$BLUR Airdrop Claimed meets a certain threshold of tokens](examples/blur-whale-claims.md)
+- Blocks
+  - [Block Number Alert - Get alerts when a specific block is mined](examples/block-number-alert.md)
 
 ### Contribution Guide
 We welcome contributions from the community to share their examples! If you'd like to contribute, please follow these guidelines:
