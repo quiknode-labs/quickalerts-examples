@@ -1,0 +1,37 @@
+## High Priority Transactions
+
+### Description
+Get a QuickAlert anytime a transaction sender is willing to pay a gas price greater than twice the max fee per gas specified in the same transaction.
+
+### Blockchain & Network
+All Blockchains and networks
+
+### Expression Values
+- N/A
+
+### Expression
+```
+(tx_gasPrice << 1) == tx_maxFeePerGas
+```
+
+### Expected Result
+```
+[
+    {
+        "blockHash": "0x5d36d5ec8d68ca06eb009b9fc376735a684c551caa0eef372f5a395a3c05a982",
+        "blockNumber": "0x9c2398b",
+        "contractAddress": "",
+        "cumulativeGasUsed": "0x0",
+        "effectiveGasPrice": "0x5f5e100",
+        "from": "0x00000000000000000000000000000000000a4b05",
+        "gasUsed": "0x0",
+        "logs": [],
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "status": "0x1",
+        "to": "0x00000000000000000000000000000000000a4b05",
+        "transactionHash": "0xf1c60e83417bf0ef7ea8dc9b0f974f070ab767fa0064286c90177c42c094a1ff",
+        "transactionIndex": "0x0",
+        "type": "0x6a"
+    }
+]
+```
