@@ -1,4 +1,4 @@
-## USDC Transfers on Polygon
+## USDC Transactions on Polygon
 
 ### Description
 
